@@ -4,9 +4,9 @@ namespace AreaOfCircle
 {
     class Program
     {
-        public static double CalculateArea(double radius);
+        public static double CalculateArea (double radius);
 
-        static void Main(string[] args)
+        static double Main(string[] args)
         {
             Console.WriteLine("What is the area of a circle?");
 

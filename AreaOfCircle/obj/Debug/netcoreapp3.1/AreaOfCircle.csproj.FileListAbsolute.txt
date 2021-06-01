@@ -1,0 +1,4 @@
+C:\Users\danie\repos\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.csproj.AssemblyReference.cache
+C:\Users\danie\repos\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.AssemblyInfoInputs.cache
+C:\Users\danie\repos\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.AssemblyInfo.cs
+C:\Users\danie\repos\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.csproj.CoreCompileInputs.cache
