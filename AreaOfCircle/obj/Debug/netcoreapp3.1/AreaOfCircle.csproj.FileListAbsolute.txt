@@ -1,0 +1,12 @@
+/Users/truecoders/Desktop/AreaOfCircle/AreaOfCircle/bin/Debug/netcoreapp3.1/AreaOfCircle.deps.json
+/Users/truecoders/Desktop/AreaOfCircle/AreaOfCircle/bin/Debug/netcoreapp3.1/AreaOfCircle.runtimeconfig.json
+/Users/truecoders/Desktop/AreaOfCircle/AreaOfCircle/bin/Debug/netcoreapp3.1/AreaOfCircle.runtimeconfig.dev.json
+/Users/truecoders/Desktop/AreaOfCircle/AreaOfCircle/bin/Debug/netcoreapp3.1/AreaOfCircle.dll
+/Users/truecoders/Desktop/AreaOfCircle/AreaOfCircle/bin/Debug/netcoreapp3.1/AreaOfCircle.pdb
+/Users/truecoders/Desktop/AreaOfCircle/AreaOfCircle/obj/Debug/netcoreapp3.1/AreaOfCircle.csprojAssemblyReference.cache
+/Users/truecoders/Desktop/AreaOfCircle/AreaOfCircle/obj/Debug/netcoreapp3.1/AreaOfCircle.AssemblyInfoInputs.cache
+/Users/truecoders/Desktop/AreaOfCircle/AreaOfCircle/obj/Debug/netcoreapp3.1/AreaOfCircle.AssemblyInfo.cs
+/Users/truecoders/Desktop/AreaOfCircle/AreaOfCircle/obj/Debug/netcoreapp3.1/AreaOfCircle.csproj.CoreCompileInputs.cache
+/Users/truecoders/Desktop/AreaOfCircle/AreaOfCircle/obj/Debug/netcoreapp3.1/AreaOfCircle.dll
+/Users/truecoders/Desktop/AreaOfCircle/AreaOfCircle/obj/Debug/netcoreapp3.1/AreaOfCircle.pdb
+/Users/truecoders/Desktop/AreaOfCircle/AreaOfCircle/obj/Debug/netcoreapp3.1/AreaOfCircle.genruntimeconfig.cache

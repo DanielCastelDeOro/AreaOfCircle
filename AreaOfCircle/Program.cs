@@ -4,11 +4,14 @@ namespace AreaOfCircle
 {
     class Program
     {
-        public static double CalculateArea(double radius);
+        public static double CalculateArea(double radius)
+        {
+            return Math.PI * (radius * radius);
+        }
 
         static void Main(string[] args)
         {
-            Console.WriteLine("What is the area of a circle?");
+            Console.WriteLine("What is the radius of the circle?");
 
             var radius = double.Parse(Console.ReadLine());
 
@@ -16,7 +19,7 @@ namespace AreaOfCircle
             
             Console.WriteLine($"The area of a circle with radius of {radius} is {areaOfCircle}");
 
-            return Math.PI * (radius * radius);
+            
         }
         
             
